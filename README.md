@@ -5,4 +5,4 @@ User can Search -
 ->Wind Speed
 ->Humidity
 
-Preview of Website - 
+Preview of Website - https://yassh2003.github.io/Weather-App/
